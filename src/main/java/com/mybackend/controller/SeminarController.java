@@ -105,4 +105,14 @@ public class SeminarController {
         logger.info("Retrieved seminar details for ID: {}", Longid);
         return new ResponseEntity<>(seminar, HttpStatus.OK);
     }
+
+
+//for tesyting ony not in use
+    @GetMapping("/attend1/{id}")
+    public ResponseEntity<Seminar> attendSeminar1(@RequestParam String id) {
+        Long Longid = Long.parseLong(id);
+        Seminar seminar = seminarService.getSeminarById(Longid);
+        logger.info("Retrieved seminar details for ID: {}", Longid);
+        return new ResponseEntity<>(seminar, HttpStatus.OK);
+    }
 }
