@@ -49,4 +49,15 @@ public class StudentController {
         List<String> emails = studentService.getEmails();
         return new ResponseEntity<>(emails, HttpStatus.OK);
     }
+
+
+
+
+//for testing ony not in use
+    @GetMapping("/ema6ils")
+    public ResponseEntity<List<String>> gaetEmails() {
+        logger.info("Getting all emails");
+        List<String> emails = studentService.getEmails();
+        return new ResponseEntity<>(emails, HttpStatus.OK);
+    }
 }
