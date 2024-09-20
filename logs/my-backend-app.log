@@ -1521,3 +1521,9 @@
 16:26:54.808 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@7bea03c3
 16:27:02.948 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
 16:27:02.948 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+17:34:55.563 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 21.0.4 on DESKTOP-LQQMCAC with PID 19212 (C:\Users\prakash\SpringbootProjectsFromOld\workspace-spring-tool-suite-4-4.18.1.RELEASE\Seminar-Backend\target\classes started by prakash in C:\Users\prakash\SpringbootProjectsFromOld\workspace-spring-tool-suite-4-4.18.1.RELEASE\Seminar-Backend)
+17:34:55.565 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+17:34:55.565 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+17:34:59.591 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 4.317 seconds (JVM running for 4.914)
+17:36:30.666 [http-nio-8080-exec-1] INFO  c.m.c.ProjectGuideController - Getting all project guides
+17:36:30.666 [http-nio-8080-exec-1] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
