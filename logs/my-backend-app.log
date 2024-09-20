@@ -1,0 +1,1502 @@
+21:35:38.083 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Starting SpringBootProjectBackendApplicationTests using Java 17.0.6 on PC with PID 12472 (started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+21:35:38.085 [main] DEBUG c.m.SpringBootProjectBackendApplicationTests - Running with Spring Boot v2.7.9, Spring v5.3.25
+21:35:38.086 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - No active profile set, falling back to 1 default profile: "default"
+21:35:53.327 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Started SpringBootProjectBackendApplicationTests in 15.856 seconds (JVM running for 19.935)
+21:40:32.909 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Starting SpringBootProjectBackendApplicationTests using Java 17.0.6 on PC with PID 8408 (started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+21:40:32.911 [main] DEBUG c.m.SpringBootProjectBackendApplicationTests - Running with Spring Boot v2.7.9, Spring v5.3.25
+21:40:32.911 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - No active profile set, falling back to 1 default profile: "default"
+21:40:49.827 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Started SpringBootProjectBackendApplicationTests in 17.496 seconds (JVM running for 20.457)
+21:44:43.037 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 4060 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+21:44:43.051 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+21:44:43.053 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+21:49:43.664 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 11788 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+21:49:43.671 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+21:49:43.676 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+21:49:55.454 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 13.036 seconds (JVM running for 19.143)
+21:50:04.345 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Registering a new student: sai@gmail.com
+21:50:04.346 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@6adef73d
+21:50:04.625 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - User registration successful for email: sai@gmail.com
+21:50:04.625 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Registration successful for email: sai@gmail.com
+21:50:41.673 [http-nio-8080-exec-5] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+21:50:41.675 [http-nio-8080-exec-5] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+21:50:41.686 [http-nio-8080-exec-7] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+21:50:41.687 [http-nio-8080-exec-7] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+21:50:41.737 [http-nio-8080-exec-7] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+21:50:41.746 [http-nio-8080-exec-5] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+21:51:02.934 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting all seminars
+21:51:07.095 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+21:51:07.095 [http-nio-8080-exec-10] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+21:51:10.720 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting all seminars
+21:51:15.143 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:51:15.143 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:56:10.238 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Getting all emails
+21:56:10.238 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Getting all emails
+21:57:33.362 [http-nio-8080-exec-4] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+21:57:33.365 [http-nio-8080-exec-4] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+21:57:33.387 [http-nio-8080-exec-4] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+21:59:30.097 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Starting SpringBootProjectBackendApplicationTests using Java 17.0.6 on PC with PID 9240 (started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+21:59:30.097 [main] DEBUG c.m.SpringBootProjectBackendApplicationTests - Running with Spring Boot v2.7.9, Spring v5.3.25
+21:59:30.098 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - No active profile set, falling back to 1 default profile: "default"
+21:59:42.068 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Started SpringBootProjectBackendApplicationTests in 12.539 seconds (JVM running for 15.808)
+22:06:34.451 [http-nio-8080-exec-8] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+22:06:34.453 [http-nio-8080-exec-8] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+22:06:34.475 [http-nio-8080-exec-8] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+22:06:45.522 [http-nio-8080-exec-6] INFO  c.m.controller.StudentController - Getting all emails
+22:06:45.522 [http-nio-8080-exec-6] INFO  com.mybackend.service.StudentService - Getting all emails
+22:06:45.523 [http-nio-8080-exec-1] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:06:45.524 [http-nio-8080-exec-1] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:06:45.560 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Getting all seminars
+22:06:52.106 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting all seminars
+22:07:05.964 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting all seminars
+22:07:15.177 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:07:15.177 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:07:34.303 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@6481bff4
+22:07:34.303 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@6481bff4
+22:08:00.561 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:08:00.561 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:14:58.680 [http-nio-8080-exec-4] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+22:14:58.687 [http-nio-8080-exec-4] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+22:14:58.770 [http-nio-8080-exec-4] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+15:48:56.021 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 11976 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+15:48:56.033 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+15:48:56.034 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+15:49:21.855 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 27.861 seconds (JVM running for 31.461)
+15:50:11.982 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+15:50:11.983 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+15:50:33.121 [http-nio-8080-exec-9] INFO  c.m.controller.StudentController - Getting all emails
+15:50:33.122 [http-nio-8080-exec-9] INFO  com.mybackend.service.StudentService - Getting all emails
+15:53:49.440 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+15:53:49.449 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+15:53:49.958 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+15:54:58.079 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting all seminars
+16:05:14.340 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 12192 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+16:05:14.349 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+16:05:14.351 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+16:05:25.921 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 13.332 seconds (JVM running for 14.965)
+16:42:58.626 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+16:42:58.660 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+16:44:01.646 [http-nio-8080-exec-5] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+16:44:01.646 [http-nio-8080-exec-5] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+16:44:02.225 [http-nio-8080-exec-5] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+15:52:28.542 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 14584 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+15:52:28.547 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+15:52:28.549 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+15:52:28.758 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 10020 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+15:52:28.763 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+15:52:28.764 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+15:52:28.764 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 9208 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+15:52:28.770 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+15:52:28.771 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+15:53:00.256 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 34.375 seconds (JVM running for 36.696)
+15:57:04.962 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 11592 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+15:57:04.986 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+15:57:04.987 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+15:57:05.014 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 14116 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+15:57:05.038 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+15:57:05.039 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+15:57:31.485 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 27.924 seconds (JVM running for 29.709)
+16:08:24.315 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Starting SpringBootProjectBackendApplicationTests using Java 17.0.6 on PC with PID 16732 (started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+16:08:24.317 [main] DEBUG c.m.SpringBootProjectBackendApplicationTests - Running with Spring Boot v2.7.9, Spring v5.3.25
+16:08:24.318 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - No active profile set, falling back to 1 default profile: "default"
+16:08:43.574 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Started SpringBootProjectBackendApplicationTests in 19.889 seconds (JVM running for 24.285)
+16:09:21.485 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 12004 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+16:09:21.491 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+16:09:21.493 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+16:11:41.683 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Starting SpringBootProjectBackendApplicationTests using Java 17.0.6 on PC with PID 13684 (started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+16:11:41.684 [main] DEBUG c.m.SpringBootProjectBackendApplicationTests - Running with Spring Boot v2.7.9, Spring v5.3.25
+16:11:41.686 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - No active profile set, falling back to 1 default profile: "default"
+16:11:56.833 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Started SpringBootProjectBackendApplicationTests in 15.78 seconds (JVM running for 18.474)
+16:12:12.818 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 5140 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+16:12:12.831 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+16:12:12.832 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+16:12:22.617 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 10.503 seconds (JVM running for 11.554)
+16:12:48.481 [http-nio-8080-exec-5] INFO  c.m.c.ProjectGuideController - Getting all project guides
+16:12:48.482 [http-nio-8080-exec-5] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:35:12.286 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 16288 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+21:35:12.294 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+21:35:12.296 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+21:35:29.438 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 18.442 seconds (JVM running for 19.424)
+21:35:50.506 [http-nio-8080-exec-1] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:35:50.506 [http-nio-8080-exec-1] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:35:54.686 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:35:54.686 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:35:55.734 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:35:55.735 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:36:10.624 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:36:10.624 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:36:37.181 [http-nio-8080-exec-9] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+21:36:37.181 [http-nio-8080-exec-9] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+21:36:37.241 [http-nio-8080-exec-9] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+21:36:44.517 [http-nio-8080-exec-1] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:36:44.518 [http-nio-8080-exec-1] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:37:12.875 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:37:12.875 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:37:17.238 [http-nio-8080-exec-5] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:37:17.238 [http-nio-8080-exec-5] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:37:18.310 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:37:18.311 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:44:06.981 [http-nio-8080-exec-5] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:44:06.996 [http-nio-8080-exec-5] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:44:09.743 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:44:09.744 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:44:10.542 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:44:10.543 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:44:11.582 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:44:11.582 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:44:12.114 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:44:12.114 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:44:12.922 [http-nio-8080-exec-1] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:44:12.922 [http-nio-8080-exec-1] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:44:14.162 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:44:14.162 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:44:15.999 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:44:16.003 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:44:17.402 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:44:17.402 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:44:17.996 [http-nio-8080-exec-5] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:44:17.996 [http-nio-8080-exec-5] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:44:18.876 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:44:18.876 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:44:20.032 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:44:20.032 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:44:45.146 [http-nio-8080-exec-10] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+21:44:45.149 [http-nio-8080-exec-10] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+21:44:45.236 [http-nio-8080-exec-10] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+21:44:59.061 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:44:59.061 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+21:45:05.787 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Getting all project guides
+21:45:05.787 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:08:12.971 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 9604 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+22:08:12.980 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+22:08:12.982 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+22:08:23.085 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 11.325 seconds (JVM running for 12.651)
+22:10:04.244 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@24ae330d
+22:10:04.244 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@24ae330d
+22:10:10.232 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:10:10.232 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:12:40.910 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 11600 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+22:12:40.936 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+22:12:40.938 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+22:12:52.112 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 12.309 seconds (JVM running for 13.588)
+22:15:58.904 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+22:15:58.904 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+22:15:59.121 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+22:16:03.375 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:16:03.375 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:16:43.356 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@5a24bd7f
+22:16:43.357 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@5a24bd7f
+22:26:58.935 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:26:59.114 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:29:52.390 [http-nio-8080-exec-1] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:29:52.390 [http-nio-8080-exec-1] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:29:58.506 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:29:58.506 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:30:01.687 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:30:01.687 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:30:02.860 [http-nio-8080-exec-5] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:30:02.860 [http-nio-8080-exec-5] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:30:07.386 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:30:07.391 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:35:04.069 [http-nio-8080-exec-8] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:35:04.070 [http-nio-8080-exec-8] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:35:12.567 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:35:12.567 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:35:26.686 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:35:26.687 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:11:55.645 [http-nio-8080-exec-8] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+23:11:55.659 [http-nio-8080-exec-8] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+23:11:55.867 [http-nio-8080-exec-8] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+23:12:08.124 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:12:08.167 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:20:24.565 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:20:24.566 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:21:16.893 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:21:16.893 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:38:05.967 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:38:05.993 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:39:18.103 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@7e7cffb2
+23:39:18.111 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@7e7cffb2
+23:39:29.513 [http-nio-8080-exec-1] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@4d93600
+23:39:29.523 [http-nio-8080-exec-1] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@4d93600
+23:45:23.364 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:45:23.365 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:46:51.283 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Removing project guide with ID: 5
+23:46:51.283 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Removing project guide with ID: 5
+23:52:24.240 [http-nio-8080-exec-8] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:52:24.240 [http-nio-8080-exec-8] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:52:30.166 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:52:30.166 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:53:27.261 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@24a92cee
+23:53:27.265 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@24a92cee
+23:54:26.959 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@1f4f9702
+23:54:26.959 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@1f4f9702
+23:54:39.099 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Removing project guide with ID: 6
+23:54:39.099 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Removing project guide with ID: 6
+23:54:48.785 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Removing project guide with ID: 7
+23:54:48.786 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Removing project guide with ID: 7
+00:01:09.316 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
+00:01:09.319 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+00:01:17.321 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+00:01:17.322 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+00:01:29.691 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Getting all project guides
+00:01:29.692 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+00:01:33.827 [http-nio-8080-exec-8] INFO  c.m.c.ProjectGuideController - Getting all project guides
+00:01:33.827 [http-nio-8080-exec-8] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+00:06:18.304 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Getting all project guides
+00:06:18.305 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+00:08:59.031 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
+00:08:59.031 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+00:12:13.726 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+00:12:13.726 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+00:14:44.316 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Getting all project guides
+00:14:44.316 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+00:14:52.767 [http-nio-8080-exec-8] INFO  c.m.c.ProjectGuideController - Getting all project guides
+00:14:52.767 [http-nio-8080-exec-8] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+00:18:31.329 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Getting all project guides
+00:18:31.330 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+00:19:02.130 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
+00:19:02.131 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+11:04:37.480 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 14728 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+11:04:37.494 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+11:04:37.495 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+11:04:49.882 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 14.593 seconds (JVM running for 17.385)
+11:05:13.657 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+11:05:13.657 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+11:05:13.797 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+11:05:22.457 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+11:05:22.457 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+11:09:44.865 [http-nio-8080-exec-10] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+11:09:44.873 [http-nio-8080-exec-10] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+11:09:45.033 [http-nio-8080-exec-10] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+11:10:01.328 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
+11:10:01.328 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+11:12:01.717 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+11:12:01.718 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+11:12:04.686 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Getting all project guides
+11:12:04.769 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+11:12:34.399 [http-nio-8080-exec-8] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+11:12:34.406 [http-nio-8080-exec-8] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+11:12:34.472 [http-nio-8080-exec-8] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+11:12:39.522 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+11:12:39.523 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+11:13:00.749 [http-nio-8080-exec-1] INFO  c.m.c.ProjectGuideController - Getting all project guides
+11:13:00.749 [http-nio-8080-exec-1] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+11:13:22.229 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+11:13:22.230 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+11:13:22.285 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+11:13:27.040 [http-nio-8080-exec-5] INFO  c.m.c.ProjectGuideController - Getting all project guides
+11:13:27.040 [http-nio-8080-exec-5] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+11:18:39.300 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 2336 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+11:18:39.305 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+11:18:39.306 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+11:18:50.209 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 11.708 seconds (JVM running for 12.841)
+11:20:38.481 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+11:20:38.481 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+11:20:38.592 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+11:20:55.869 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+11:20:55.869 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+11:27:14.496 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Getting all project guides
+11:27:14.512 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+11:27:43.577 [http-nio-8080-exec-5] INFO  c.m.c.ProjectGuideController - Getting all project guides
+11:27:43.578 [http-nio-8080-exec-5] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+11:31:02.393 [http-nio-8080-exec-1] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+11:31:02.403 [http-nio-8080-exec-1] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+11:31:02.894 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+11:31:02.894 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+11:31:03.018 [http-nio-8080-exec-1] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+11:31:03.075 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+11:31:03.224 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+11:31:03.225 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+11:31:03.230 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+11:31:03.431 [http-nio-8080-exec-4] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+11:31:03.431 [http-nio-8080-exec-4] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+11:31:03.452 [http-nio-8080-exec-4] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+11:31:03.638 [http-nio-8080-exec-6] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+11:31:03.639 [http-nio-8080-exec-6] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+11:31:03.648 [http-nio-8080-exec-6] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+11:31:28.119 [http-nio-8080-exec-5] INFO  c.m.c.ProjectGuideController - Getting all project guides
+11:31:28.120 [http-nio-8080-exec-5] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+11:33:14.077 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Getting all project guides
+11:33:14.077 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+11:33:18.774 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
+11:33:18.774 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+11:39:05.517 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+11:39:05.549 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+11:55:05.288 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 1104 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+11:55:05.295 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+11:55:05.296 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+11:55:29.651 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 26.081 seconds (JVM running for 28.517)
+11:57:27.500 [http-nio-8080-exec-1] INFO  c.m.c.ProjectGuideController - Getting all project guides
+11:57:27.500 [http-nio-8080-exec-1] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:07:49.934 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 7120 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+12:07:49.945 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+12:07:49.947 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+12:08:04.289 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 15.226 seconds (JVM running for 16.22)
+12:11:48.247 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+12:11:48.248 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+12:11:48.625 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+12:11:49.342 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+12:11:49.342 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+12:11:49.432 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+12:11:59.759 [http-nio-8080-exec-5] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:11:59.759 [http-nio-8080-exec-5] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:12:34.143 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:12:34.143 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:16:51.496 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:16:51.535 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:16:56.575 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:16:56.575 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:17:23.931 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:17:23.931 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:17:57.701 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:17:57.701 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:18:24.415 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:18:24.417 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:23:56.896 [http-nio-8080-exec-8] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:23:56.897 [http-nio-8080-exec-8] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:26:24.846 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:26:24.846 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:26:29.683 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:26:29.683 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:30:36.277 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 5608 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+12:30:36.285 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+12:30:36.286 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+12:30:46.706 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 11.532 seconds (JVM running for 12.715)
+12:31:30.942 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 12488 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+12:31:30.947 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+12:31:30.949 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+12:31:42.118 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 11.843 seconds (JVM running for 13.071)
+12:34:56.693 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 5808 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+12:34:56.703 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+12:34:56.704 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+12:37:33.083 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 11224 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+12:37:33.099 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+12:37:33.101 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+12:37:45.481 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 13.116 seconds (JVM running for 14.197)
+12:38:49.772 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 14172 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+12:38:49.779 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+12:38:49.780 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+12:38:59.737 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 10.638 seconds (JVM running for 11.994)
+12:39:22.755 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 11012 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+12:39:22.771 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+12:39:22.772 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+12:39:32.669 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 10.588 seconds (JVM running for 11.566)
+12:45:10.309 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 6316 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+12:45:10.315 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+12:45:10.316 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+12:45:28.034 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 18.6 seconds (JVM running for 19.757)
+12:46:58.218 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 8504 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+12:46:58.223 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+12:46:58.224 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+12:47:10.504 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 13.035 seconds (JVM running for 13.995)
+12:49:47.809 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 8976 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+12:49:47.824 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+12:49:47.825 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+12:49:58.225 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 11.075 seconds (JVM running for 12.358)
+12:53:21.386 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 16436 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+12:53:21.394 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+12:53:21.396 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+12:53:31.812 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 11.09 seconds (JVM running for 12.165)
+13:01:43.147 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 9840 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+13:01:43.156 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+13:01:43.157 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+13:01:53.757 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 17.25 seconds (JVM running for 18.731)
+13:03:13.073 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Registering a new student: sai@gmail.com
+13:03:13.074 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@7868e168
+13:03:13.671 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Registering a new student: sai@gmail.com
+13:03:13.672 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@5e891a9
+13:03:13.878 [http-nio-8080-exec-4] INFO  c.m.controller.StudentController - Registering a new student: sai@gmail.com
+13:03:13.878 [http-nio-8080-exec-4] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@17e9fe6b
+13:03:14.043 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - User registration successful for email: sai@gmail.com
+13:03:14.043 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Registration successful for email: sai@gmail.com
+13:03:14.044 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - User registration successful for email: sai@gmail.com
+13:03:14.044 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Registration successful for email: sai@gmail.com
+13:03:14.057 [http-nio-8080-exec-5] INFO  c.m.controller.StudentController - Registering a new student: sai@gmail.com
+13:03:14.057 [http-nio-8080-exec-5] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@68d72e57
+13:03:14.062 [http-nio-8080-exec-4] INFO  com.mybackend.service.StudentService - User registration successful for email: sai@gmail.com
+13:03:14.062 [http-nio-8080-exec-4] INFO  c.m.controller.StudentController - Registration successful for email: sai@gmail.com
+13:03:20.036 [http-nio-8080-exec-9] INFO  c.m.controller.StudentController - Registering a new student: sai@gmail.com
+13:03:20.036 [http-nio-8080-exec-9] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@4b6cd6ec
+13:03:54.335 [http-nio-8080-exec-10] INFO  c.m.controller.StudentController - Registering a new student: sai2@gmail.com
+13:03:54.335 [http-nio-8080-exec-10] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@442b4ea2
+13:03:54.373 [http-nio-8080-exec-10] INFO  com.mybackend.service.StudentService - User registration successful for email: sai2@gmail.com
+13:03:54.373 [http-nio-8080-exec-10] INFO  c.m.controller.StudentController - Registration successful for email: sai2@gmail.com
+13:04:27.288 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Validating login for email: sai2@gmail.com
+13:04:27.288 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login validation for email: sai2@gmail.com
+13:04:27.298 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login successful for email: sai2@gmail.com
+13:04:31.082 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+13:04:31.092 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+13:10:16.813 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Getting all project guides
+13:10:16.818 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+13:11:55.057 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 6944 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+13:11:55.068 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+13:11:55.070 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+13:12:05.027 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 11.017 seconds (JVM running for 11.986)
+16:00:49.740 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 8488 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+16:00:49.751 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+16:00:49.752 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+16:01:00.920 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 12.317 seconds (JVM running for 13.479)
+16:05:35.678 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+16:05:35.679 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+16:05:35.897 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+16:05:55.164 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+16:05:55.165 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+16:18:19.328 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 11000 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+16:18:19.349 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+16:18:19.350 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+16:18:38.192 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 20.229 seconds (JVM running for 22.199)
+16:23:37.149 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 7880 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+16:23:37.154 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+16:23:37.155 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+19:01:18.546 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Starting SpringBootProjectBackendApplicationTests using Java 17.0.6 on PC with PID 2448 (started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+19:01:18.548 [main] DEBUG c.m.SpringBootProjectBackendApplicationTests - Running with Spring Boot v2.7.9, Spring v5.3.25
+19:01:18.549 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - No active profile set, falling back to 1 default profile: "default"
+19:04:23.132 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Starting SpringBootProjectBackendApplicationTests using Java 17.0.6 on PC with PID 6524 (started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+19:04:23.133 [main] DEBUG c.m.SpringBootProjectBackendApplicationTests - Running with Spring Boot v2.7.9, Spring v5.3.25
+19:04:23.135 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - No active profile set, falling back to 1 default profile: "default"
+19:05:26.703 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Starting SpringBootProjectBackendApplicationTests using Java 17.0.6 on PC with PID 820 (started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+19:05:26.704 [main] DEBUG c.m.SpringBootProjectBackendApplicationTests - Running with Spring Boot v2.7.9, Spring v5.3.25
+19:05:26.705 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - No active profile set, falling back to 1 default profile: "default"
+19:06:49.909 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Starting SpringBootProjectBackendApplicationTests using Java 17.0.6 on PC with PID 3356 (started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+19:06:49.910 [main] DEBUG c.m.SpringBootProjectBackendApplicationTests - Running with Spring Boot v2.7.9, Spring v5.3.25
+19:06:49.911 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - No active profile set, falling back to 1 default profile: "default"
+19:08:21.335 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Starting SpringBootProjectBackendApplicationTests using Java 17.0.6 on PC with PID 10620 (started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+19:08:21.336 [main] DEBUG c.m.SpringBootProjectBackendApplicationTests - Running with Spring Boot v2.7.9, Spring v5.3.25
+19:08:21.337 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - No active profile set, falling back to 1 default profile: "default"
+19:26:52.063 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Starting SpringBootProjectBackendApplicationTests using Java 17.0.6 on PC with PID 4280 (started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+19:26:52.064 [main] DEBUG c.m.SpringBootProjectBackendApplicationTests - Running with Spring Boot v2.7.9, Spring v5.3.25
+19:26:52.065 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - No active profile set, falling back to 1 default profile: "default"
+19:27:03.451 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Started SpringBootProjectBackendApplicationTests in 11.95 seconds (JVM running for 14.887)
+22:17:37.422 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 6600 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+22:17:37.430 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+22:17:37.431 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+22:17:47.652 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 11.307 seconds (JVM running for 14.261)
+22:27:36.158 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Starting SpringBootProjectBackendApplicationTests using Java 17.0.6 on PC with PID 7892 (started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+22:27:36.159 [main] DEBUG c.m.SpringBootProjectBackendApplicationTests - Running with Spring Boot v2.7.9, Spring v5.3.25
+22:27:36.161 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - No active profile set, falling back to 1 default profile: "default"
+22:27:46.727 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Started SpringBootProjectBackendApplicationTests in 11.12 seconds (JVM running for 13.429)
+22:28:07.375 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 660 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+22:28:07.383 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+22:28:07.384 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+22:28:19.238 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 12.748 seconds (JVM running for 14.542)
+22:28:24.705 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+22:28:24.705 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+22:28:24.801 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+22:28:41.091 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:28:41.091 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:28:48.754 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@5bd6e18f
+22:28:48.754 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@5bd6e18f
+22:28:55.025 [http-nio-8080-exec-8] INFO  c.m.c.ProjectGuideController - Removing project guide with ID: 1
+22:28:55.025 [http-nio-8080-exec-8] INFO  c.m.service.ProjectGuideServiceImpl - Removing project guide with ID: 1
+22:29:39.693 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@1a5a4bab
+22:29:39.693 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@1a5a4bab
+22:30:14.785 [http-nio-8080-exec-4] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+22:30:14.785 [http-nio-8080-exec-4] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+22:30:14.938 [http-nio-8080-exec-4] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+22:30:21.400 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting all seminars
+22:34:43.227 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+22:34:43.229 [http-nio-8080-exec-9] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+22:37:50.564 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+22:38:12.229 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:38:12.233 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:51:27.975 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:51:27.976 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:51:31.312 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting all seminars
+22:51:31.347 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:51:31.347 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:51:35.095 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting all seminars
+22:51:41.659 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+22:51:41.660 [http-nio-8080-exec-1] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+22:51:48.515 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting all seminars
+22:52:34.291 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+22:52:47.545 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:52:47.545 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:52:47.562 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting all seminars
+22:52:58.433 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+22:53:01.482 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+22:53:01.482 [http-nio-8080-exec-2] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+22:53:08.864 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:53:08.864 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:53:29.334 [http-nio-8080-exec-5] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:53:29.334 [http-nio-8080-exec-5] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:53:47.776 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:53:47.777 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:53:48.849 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:53:48.849 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:53:50.013 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:53:50.013 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:54:12.967 [http-nio-8080-exec-1] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+22:54:12.972 [http-nio-8080-exec-1] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+22:54:13.057 [http-nio-8080-exec-1] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+22:54:28.395 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+22:54:28.395 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+22:54:28.443 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+22:54:40.813 [http-nio-8080-exec-5] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:54:40.813 [http-nio-8080-exec-5] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:54:49.298 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting all seminars
+22:54:55.097 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:54:55.097 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:54:59.215 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+22:55:05.914 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+22:55:05.914 [http-nio-8080-exec-2] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+22:55:10.246 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Getting all seminars
+22:55:12.313 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=sai@gmail.com, date=2022-09-09, fee=1000, location=ptp, mentorName=mishal, seminarId=123
+22:55:12.763 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 123
+22:55:12.764 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 123
+22:55:18.842 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+22:55:18.843 [http-nio-8080-exec-7] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+22:55:22.546 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting all seminars
+22:55:33.442 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+22:55:39.934 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:55:39.934 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:57:23.266 [http-nio-8080-exec-5] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+22:57:23.266 [http-nio-8080-exec-5] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+22:57:23.272 [http-nio-8080-exec-5] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+22:57:30.880 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:57:30.880 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:58:20.258 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:58:20.258 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:58:43.433 [http-nio-8080-exec-1] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+22:58:43.433 [http-nio-8080-exec-1] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+22:58:43.493 [http-nio-8080-exec-1] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+22:58:50.553 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Getting all seminars
+22:58:56.861 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+22:58:56.871 [http-nio-8080-exec-5] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:58:56.871 [http-nio-8080-exec-5] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:59:08.999 [http-nio-8080-exec-9] INFO  c.m.controller.StudentController - Getting all emails
+22:59:09.000 [http-nio-8080-exec-9] INFO  com.mybackend.service.StudentService - Getting all emails
+22:59:09.002 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:59:09.002 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:59:09.206 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+22:59:22.175 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Getting all seminars
+22:59:26.019 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:59:26.019 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+15:18:04.435 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 2960 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+15:18:04.458 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+15:18:04.460 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+15:18:19.807 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 16.854 seconds (JVM running for 18.461)
+15:24:19.963 [http-nio-8080-exec-1] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+15:24:19.964 [http-nio-8080-exec-1] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+15:24:20.298 [http-nio-8080-exec-1] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+15:24:35.613 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+15:24:38.909 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=sai@gmail.com, date=2022-09-09, fee=1000, location=ptp, mentorName=mishal, seminarId=123
+15:24:39.379 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 123
+15:24:39.379 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 123
+15:24:45.115 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+15:24:45.115 [http-nio-8080-exec-8] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+15:24:53.062 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting all seminars
+15:24:55.775 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Getting all project guides
+15:24:55.775 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+15:25:26.709 [http-nio-8080-exec-1] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+15:25:26.709 [http-nio-8080-exec-1] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+15:25:26.717 [http-nio-8080-exec-1] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+15:25:38.567 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+15:25:42.497 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting all seminars
+15:25:50.787 [http-nio-8080-exec-8] INFO  c.m.c.ProjectGuideController - Getting all project guides
+15:25:50.787 [http-nio-8080-exec-8] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+15:26:13.057 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+15:26:13.057 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+15:26:13.059 [http-nio-8080-exec-10] INFO  c.m.controller.StudentController - Getting all emails
+15:26:13.059 [http-nio-8080-exec-10] INFO  com.mybackend.service.StudentService - Getting all emails
+15:26:13.156 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting all seminars
+15:30:26.946 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+12:14:18.492 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 13532 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+12:14:18.506 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+12:14:18.509 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+12:14:44.679 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 4972 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+12:14:44.859 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+12:14:44.861 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+12:14:55.102 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 11.093 seconds (JVM running for 12.01)
+12:19:13.525 [http-nio-8080-exec-1] INFO  c.m.controller.StudentController - Registering a new student: sai@gmail.com
+12:19:13.526 [http-nio-8080-exec-1] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@b79e862
+12:19:13.772 [http-nio-8080-exec-1] INFO  com.mybackend.service.StudentService - User registration successful for email: sai@gmail.com
+12:19:13.772 [http-nio-8080-exec-1] INFO  c.m.controller.StudentController - Registration successful for email: sai@gmail.com
+12:19:28.791 [http-nio-8080-exec-5] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+12:19:28.792 [http-nio-8080-exec-5] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+12:19:28.860 [http-nio-8080-exec-5] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+12:19:38.895 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:19:38.895 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:19:46.938 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting all seminars
+12:19:49.581 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+12:19:49.581 [http-nio-8080-exec-10] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+12:19:59.375 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+12:25:30.295 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting all seminars
+12:25:32.898 [http-nio-8080-exec-1] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:25:32.898 [http-nio-8080-exec-1] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:25:33.063 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Getting all emails
+12:25:33.064 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Getting all emails
+12:25:34.553 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+12:25:35.596 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting all seminars
+12:27:00.895 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@2e686d73
+12:27:00.895 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@2e686d73
+12:27:07.411 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:27:07.411 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:29:46.191 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@4f404577
+12:29:46.191 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@4f404577
+12:29:52.451 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:29:52.451 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:30:34.198 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@3d36b67a
+12:30:34.209 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@3d36b67a
+12:30:38.897 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:30:38.897 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:32:37.791 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@1bcd44ab
+12:32:37.792 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@1bcd44ab
+12:32:41.612 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:32:41.612 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:33:27.110 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:33:27.110 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:33:47.028 [http-nio-8080-exec-5] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:33:47.028 [http-nio-8080-exec-5] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:34:19.453 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:34:19.453 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:34:20.394 [http-nio-8080-exec-8] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:34:20.394 [http-nio-8080-exec-8] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:35:02.520 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:35:02.520 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:35:12.296 [http-nio-8080-exec-1] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:35:12.297 [http-nio-8080-exec-1] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:35:12.312 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Getting all emails
+12:35:12.312 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Getting all emails
+12:35:12.448 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+12:35:14.625 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting all seminars
+12:37:20.644 [http-nio-8080-exec-9] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+12:37:20.644 [http-nio-8080-exec-9] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+12:37:20.706 [http-nio-8080-exec-9] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+12:37:24.474 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting all seminars
+12:37:26.776 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+12:37:26.776 [http-nio-8080-exec-2] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+12:37:29.680 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Getting all seminars
+12:37:32.334 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:37:32.334 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:37:43.689 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting all seminars
+12:37:46.789 [http-nio-8080-exec-8] INFO  c.m.controller.StudentController - Getting all emails
+12:37:46.789 [http-nio-8080-exec-8] INFO  com.mybackend.service.StudentService - Getting all emails
+12:37:46.794 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:37:46.795 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:37:46.812 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting all seminars
+12:37:54.322 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting all seminars
+12:37:57.105 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting all seminars
+12:37:59.475 [http-nio-8080-exec-1] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:37:59.476 [http-nio-8080-exec-1] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:37:59.497 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Getting all emails
+12:37:59.497 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Getting all emails
+12:37:59.520 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+12:38:08.818 [http-nio-8080-exec-5] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:38:08.818 [http-nio-8080-exec-5] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:38:15.197 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting all seminars
+12:38:22.220 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+12:38:26.998 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:38:26.998 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:38:27.001 [http-nio-8080-exec-6] INFO  c.m.controller.StudentController - Getting all emails
+12:38:27.002 [http-nio-8080-exec-6] INFO  com.mybackend.service.StudentService - Getting all emails
+12:38:27.048 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting all seminars
+12:38:30.130 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting all seminars
+12:38:32.473 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+12:38:49.501 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting all seminars
+12:39:02.484 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:39:02.484 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:39:02.493 [http-nio-8080-exec-8] INFO  c.m.controller.StudentController - Getting all emails
+12:39:02.494 [http-nio-8080-exec-8] INFO  com.mybackend.service.StudentService - Getting all emails
+12:39:02.526 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting all seminars
+12:39:05.500 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting all seminars
+12:39:26.921 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:39:26.922 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:39:26.936 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Getting all emails
+12:39:26.937 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Getting all emails
+12:39:26.962 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+12:39:29.353 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting all seminars
+12:39:31.675 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting all seminars
+12:40:35.837 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:40:35.837 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:40:35.844 [http-nio-8080-exec-6] INFO  c.m.controller.StudentController - Getting all emails
+12:40:35.846 [http-nio-8080-exec-6] INFO  com.mybackend.service.StudentService - Getting all emails
+12:40:35.870 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting all seminars
+12:40:41.917 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+12:40:45.104 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Getting all seminars
+12:40:47.599 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting all seminars
+12:40:50.710 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+12:40:53.628 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting all seminars
+12:40:59.439 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:40:59.440 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:40:59.440 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Getting all emails
+12:40:59.440 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Getting all emails
+12:40:59.517 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+12:43:38.499 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting all seminars
+12:43:41.074 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting all seminars
+12:43:42.899 [http-nio-8080-exec-9] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=sai@gmail.com, date=2023-09-20, fee=1000, location=puttaparthi, mentorName=krishna, seminarId=123
+12:43:43.017 [http-nio-8080-exec-9] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 123
+12:43:43.017 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 123
+12:43:47.163 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting all seminars
+12:43:59.247 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+12:44:00.949 [http-nio-8080-exec-4] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=sai@gmail.com, date=2023-09-20, fee=1000, location=puttaparthi, mentorName=krishna, seminarId=123
+12:44:00.975 [http-nio-8080-exec-4] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 123
+12:44:00.975 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 123
+12:44:04.984 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+12:44:04.984 [http-nio-8080-exec-5] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+12:44:08.351 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 1
+12:44:08.352 [http-nio-8080-exec-8] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 1
+12:44:13.714 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting all seminars
+12:44:17.398 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting all seminars
+12:44:20.616 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting all seminars
+12:44:22.785 [http-nio-8080-exec-1] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:44:22.786 [http-nio-8080-exec-1] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:44:29.217 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+12:44:29.217 [http-nio-8080-exec-3] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+12:44:37.799 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 2
+12:44:37.799 [http-nio-8080-exec-7] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 2
+12:44:41.238 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+12:44:51.011 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+12:44:51.016 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+12:44:54.682 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting all seminars
+20:12:03.746 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 11236 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+20:12:03.764 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+20:12:03.766 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+20:12:20.576 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 17.663 seconds (JVM running for 19.12)
+20:12:35.521 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+20:12:35.522 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+20:12:35.667 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+20:12:44.422 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+20:12:54.605 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting all seminars
+20:13:03.292 [http-nio-8080-exec-8] INFO  c.m.c.ProjectGuideController - Getting all project guides
+20:13:03.293 [http-nio-8080-exec-8] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+20:13:03.311 [http-nio-8080-exec-9] INFO  c.m.controller.StudentController - Getting all emails
+20:13:03.311 [http-nio-8080-exec-9] INFO  com.mybackend.service.StudentService - Getting all emails
+20:13:03.511 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting all seminars
+20:13:06.037 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+20:51:47.261 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 9612 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+20:51:47.267 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+20:51:47.268 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+20:51:58.255 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 12.258 seconds (JVM running for 13.801)
+21:11:54.757 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 6636 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+21:11:54.764 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+21:11:54.766 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+21:12:08.476 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 14.577 seconds (JVM running for 16.397)
+21:12:33.263 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Validating login for admin-email: sai@gmail.com
+21:13:25.618 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+21:13:32.344 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting all seminars
+21:13:39.430 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+21:13:43.217 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting all seminars
+21:18:23.305 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Registering a new student: mishal@gmail.com
+21:18:23.307 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@1437d78c
+21:18:23.655 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - User registration successful for email: mishal@gmail.com
+21:18:23.655 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Registration successful for email: mishal@gmail.com
+21:20:03.754 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+21:20:06.350 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting all seminars
+21:20:08.075 [http-nio-8080-exec-8] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=sai@gmail.com, date=2023-09-20, fee=1000, location=puttaparthi, mentorName=krishna, seminarId=123
+21:20:08.258 [http-nio-8080-exec-8] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 123
+21:20:08.259 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 123
+21:20:11.222 [http-nio-8080-exec-9] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=sai@gmail.com, date=2023-09-20, fee=1000, location=puttaparthi, mentorName=krishna, seminarId=123
+21:20:11.277 [http-nio-8080-exec-9] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 123
+21:20:11.277 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 123
+21:20:13.493 [http-nio-8080-exec-10] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=sai@gmail.com, date=2023-09-20, fee=1000, location=puttaparthi, mentorName=krishna, seminarId=123
+21:20:13.546 [http-nio-8080-exec-10] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 123
+21:20:13.546 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 123
+21:20:17.761 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting all seminars
+21:20:21.288 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+21:20:21.288 [http-nio-8080-exec-3] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+21:20:37.044 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 4
+21:20:37.044 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 4
+21:20:39.516 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 5
+21:20:39.516 [http-nio-8080-exec-8] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 5
+22:30:47.876 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 14684 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+22:30:47.885 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+22:30:47.887 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+22:31:03.790 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 17.067 seconds (JVM running for 19.317)
+22:37:05.858 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+22:37:05.860 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+22:37:05.866 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+22:37:05.867 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+22:37:06.259 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+22:37:06.267 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+23:11:41.893 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 10104 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+23:11:41.899 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+23:11:41.900 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+23:15:38.979 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 3064 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+23:15:38.995 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+23:15:38.996 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+23:22:20.932 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 13564 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+23:22:20.938 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+23:22:20.939 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+23:26:09.520 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 952 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+23:26:09.525 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+23:26:09.526 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+23:26:20.090 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 11.313 seconds (JVM running for 12.365)
+23:58:19.371 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 15092 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+23:58:19.377 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+23:58:19.378 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+23:58:30.682 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 12.016 seconds (JVM running for 13.107)
+00:04:07.076 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 5136 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+00:04:07.085 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+00:04:07.086 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+00:04:17.734 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 11.332 seconds (JVM running for 12.305)
+00:25:30.935 [http-nio-8080-exec-4] INFO  c.m.controller.StudentController - Validating login for email: mishal@gmail.com
+00:25:30.935 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Validating login for email: mishal@gmail.com
+00:39:36.560 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting all seminars
+00:39:38.487 [http-nio-8080-exec-9] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=mishal@gmail.com, date=2023-09-20, fee=1000, location=puttaparthi, mentorName=krishna, seminarId=123
+00:39:40.240 [http-nio-8080-exec-10] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=mishal@gmail.com, date=2023-09-20, fee=1000, location=puttaparthi, mentorName=krishna, seminarId=123
+00:39:42.699 [http-nio-8080-exec-10] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 123
+00:39:42.700 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 123
+00:39:42.724 [http-nio-8080-exec-9] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 123
+00:39:42.725 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 123
+00:39:48.676 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+00:39:49.809 [http-nio-8080-exec-2] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=mishal@gmail.com, date=2023-09-20, fee=1000, location=puttaparthi, mentorName=krishna, seminarId=123
+00:39:49.858 [http-nio-8080-exec-2] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 123
+00:39:49.858 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 123
+00:39:56.281 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting all seminars
+00:39:59.322 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting seminars by email: mishal@gmail.com
+00:39:59.322 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mishal@gmail.com
+00:40:01.450 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 6
+00:40:01.450 [http-nio-8080-exec-10] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 6
+00:40:04.254 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 8
+00:40:04.254 [http-nio-8080-exec-1] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 8
+00:40:48.645 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+00:40:50.685 [http-nio-8080-exec-3] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=mishal@gmail.com, date=2023-09-20, fee=1000, location=puttaparthi, mentorName=krishna, seminarId=123
+00:40:50.771 [http-nio-8080-exec-3] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 123
+00:40:50.771 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 123
+00:40:53.630 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=mishal@gmail.com, date=2023-09-20, fee=1000, location=puttaparthi, mentorName=krishna, seminarId=123
+00:40:53.678 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 123
+00:40:53.678 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 123
+00:40:59.368 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting seminars by email: mishal@gmail.com
+00:40:59.368 [http-nio-8080-exec-8] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mishal@gmail.com
+00:47:39.958 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting seminars by email: mishal@gmail.com
+00:47:40.003 [http-nio-8080-exec-9] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mishal@gmail.com
+00:47:50.251 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting seminars by email: mishal@gmail.com
+00:47:50.251 [http-nio-8080-exec-2] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mishal@gmail.com
+00:58:28.890 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 14440 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+00:58:28.895 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+00:58:28.896 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+00:58:40.338 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 12.554 seconds (JVM running for 14.124)
+01:07:21.291 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 3268 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+01:07:21.302 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+01:07:21.303 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+01:11:29.646 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 7672 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+01:11:29.654 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+01:11:29.656 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+01:12:07.229 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 1244 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+01:12:07.236 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+01:12:07.237 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+01:12:16.978 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 10.709 seconds (JVM running for 11.719)
+01:22:03.692 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Validating login for admin-email: sai@gmail.com
+01:22:03.692 [http-nio-8080-exec-5] INFO  c.m.controller.StudentController - Validating login for admin-email: sai@gmail.com
+01:22:09.226 [http-nio-8080-exec-7] INFO  c.m.controller.StudentController - Getting all emails
+01:22:09.227 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Getting all project guides
+01:22:09.228 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+01:22:09.284 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+01:22:14.265 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting all seminars
+01:22:47.409 [http-nio-8080-exec-5] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@56aba994
+01:22:47.869 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@56aba994
+01:22:50.781 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting all seminars
+01:22:55.124 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Getting all project guides
+01:22:55.125 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+01:22:55.130 [http-nio-8080-exec-4] INFO  c.m.controller.StudentController - Getting all emails
+01:22:55.167 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+01:23:00.621 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+01:23:10.527 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Getting all project guides
+01:23:10.527 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+14:07:15.111 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 11788 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+14:07:15.122 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+14:07:15.123 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+14:07:28.282 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 13.948 seconds (JVM running for 15.21)
+14:10:40.954 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Validating login for email: mishal@gmail.com
+14:10:40.955 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login validation for email: mishal@gmail.com
+14:10:41.064 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login successful for email: mishal@gmail.com
+14:11:10.115 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+14:11:10.115 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+14:11:26.481 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting all seminars
+14:11:31.066 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting seminars by email: mishal@gmail.com
+14:11:31.067 [http-nio-8080-exec-7] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mishal@gmail.com
+14:11:37.191 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting all seminars
+14:12:14.142 [http-nio-8080-exec-1] INFO  c.m.c.ProjectGuideController - Getting all project guides
+14:12:14.143 [http-nio-8080-exec-1] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+14:12:18.812 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting all seminars
+14:13:40.791 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+14:13:40.791 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+14:14:06.168 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting all seminars
+14:14:10.617 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Getting all project guides
+14:14:10.644 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+14:19:13.014 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting all seminars
+14:19:24.198 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+22:16:45.727 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 6432 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+22:16:45.733 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+22:16:45.734 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+22:16:55.916 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 10.934 seconds (JVM running for 12.05)
+22:24:18.329 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Validating login for email: mishal@gmail.com
+22:24:18.329 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login validation for email: mishal@gmail.com
+22:24:18.488 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login successful for email: mishal@gmail.com
+22:24:49.872 [http-nio-8080-exec-4] INFO  c.m.controller.StudentController - Registering a new student: sai3@gmail.com
+22:24:49.872 [http-nio-8080-exec-4] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@79c8271d
+22:24:50.367 [http-nio-8080-exec-4] INFO  com.mybackend.service.StudentService - User registration successful for email: sai3@gmail.com
+22:24:50.367 [http-nio-8080-exec-4] INFO  c.m.controller.StudentController - Registration successful for email: sai3@gmail.com
+22:25:08.129 [http-nio-8080-exec-8] INFO  c.m.controller.StudentController - Validating login for email: sai3@gmail.com
+22:25:08.130 [http-nio-8080-exec-8] INFO  com.mybackend.service.StudentService - Login validation for email: sai3@gmail.com
+22:25:08.136 [http-nio-8080-exec-8] INFO  com.mybackend.service.StudentService - Login successful for email: sai3@gmail.com
+22:26:11.882 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:26:11.882 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:26:16.943 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+22:26:20.141 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting seminars by email: sai3@gmail.com
+22:26:20.142 [http-nio-8080-exec-2] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai3@gmail.com
+22:26:23.020 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Getting all seminars
+22:27:06.320 [http-nio-8080-exec-7] INFO  c.m.controller.StudentController - Validating login for admin-email: sai@gmail.com
+22:27:14.471 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting all seminars
+22:27:20.344 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:27:20.344 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:27:28.473 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Removing project guide with ID: 3
+22:27:28.473 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Removing project guide with ID: 3
+22:27:31.054 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Removing project guide with ID: 4
+22:27:31.054 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Removing project guide with ID: 4
+22:27:34.204 [http-nio-8080-exec-8] INFO  c.m.c.ProjectGuideController - Removing project guide with ID: 2
+22:27:34.204 [http-nio-8080-exec-8] INFO  c.m.service.ProjectGuideServiceImpl - Removing project guide with ID: 2
+22:27:38.962 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Removing project guide with ID: 1
+22:27:38.962 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Removing project guide with ID: 1
+22:38:31.853 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@2fe48aea
+22:38:31.854 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@2fe48aea
+22:43:24.061 [http-nio-8080-exec-5] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@1c9d1aed
+22:43:24.061 [http-nio-8080-exec-5] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@1c9d1aed
+22:47:05.564 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@c517dbb
+22:47:05.565 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@c517dbb
+22:52:50.869 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@4beb99a4
+22:52:50.869 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@4beb99a4
+22:53:08.535 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:53:08.535 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:53:53.402 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:53:53.403 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:53:57.247 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting all seminars
+22:54:00.141 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+22:54:49.375 [http-nio-8080-exec-6] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@51b94199
+22:54:49.450 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@51b94199
+22:54:51.701 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting all seminars
+22:55:31.095 [http-nio-8080-exec-10] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@6784f612
+22:55:31.122 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@6784f612
+22:55:33.004 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+22:55:44.504 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 1
+22:55:44.505 [http-nio-8080-exec-3] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 1
+22:55:47.609 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 2
+22:55:47.609 [http-nio-8080-exec-4] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 2
+22:56:16.654 [http-nio-8080-exec-7] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@5c6db0a1
+22:56:16.679 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@5c6db0a1
+22:56:19.052 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+22:56:27.222 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 3
+22:56:27.222 [http-nio-8080-exec-9] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 3
+22:56:30.376 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 4
+22:56:30.376 [http-nio-8080-exec-1] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 4
+22:56:32.720 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 5
+22:56:32.720 [http-nio-8080-exec-3] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 5
+22:56:51.654 [http-nio-8080-exec-5] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@37064d8b
+22:56:51.693 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@37064d8b
+22:56:53.775 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+22:57:47.869 [http-nio-8080-exec-7] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@47929a00
+22:57:47.891 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@47929a00
+22:57:49.505 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+22:58:09.550 [http-nio-8080-exec-6] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@26cbd677
+22:58:09.581 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@26cbd677
+22:58:11.212 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting all seminars
+22:58:31.592 [http-nio-8080-exec-10] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@6c70a492
+22:58:31.616 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@6c70a492
+22:58:33.771 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+22:58:45.001 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:58:45.001 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:01:17.189 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@414e3b57
+23:01:17.189 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@414e3b57
+23:01:29.829 [http-nio-8080-exec-8] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:01:29.829 [http-nio-8080-exec-8] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:02:00.516 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:02:00.516 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:04:04.681 [http-nio-8080-exec-1] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:04:04.681 [http-nio-8080-exec-1] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:05:28.098 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:05:28.098 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:05:35.797 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:05:35.798 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:05:59.106 [http-nio-8080-exec-8] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:05:59.106 [http-nio-8080-exec-8] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:06:47.804 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:06:47.804 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:07:12.737 [http-nio-8080-exec-1] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:07:12.738 [http-nio-8080-exec-1] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:08:22.294 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:08:22.295 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:11:12.704 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:11:12.705 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:11:15.893 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:11:15.893 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:12:02.306 [http-nio-8080-exec-8] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:12:02.307 [http-nio-8080-exec-8] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:12:58.388 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:12:58.389 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:14:32.535 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Validating login for email: mishal@gmail.com
+23:14:32.542 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login validation for email: mishal@gmail.com
+23:14:32.726 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login successful for email: mishal@gmail.com
+23:15:09.992 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting seminars by email: mishal@gmail.com
+23:15:09.993 [http-nio-8080-exec-5] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mishal@gmail.com
+23:15:16.996 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 7
+23:15:16.996 [http-nio-8080-exec-8] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 7
+23:15:16.996 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 7
+23:15:16.999 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 7
+23:15:17.534 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 9
+23:15:17.534 [http-nio-8080-exec-10] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 9
+23:15:23.109 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 7
+23:15:23.109 [http-nio-8080-exec-3] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 7
+23:15:25.607 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 10
+23:15:25.607 [http-nio-8080-exec-4] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 10
+23:15:28.603 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 7
+23:15:28.603 [http-nio-8080-exec-7] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 7
+23:15:30.710 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 7
+23:15:30.710 [http-nio-8080-exec-9] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 7
+23:15:33.749 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 7
+23:15:33.750 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 7
+23:15:36.353 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 7
+23:15:36.353 [http-nio-8080-exec-10] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 7
+23:15:41.166 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+23:15:54.567 [http-nio-8080-exec-3] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=mishal@gmail.com, date=2023-06-06, fee=1000, location=sikkim, mentorName=Mishal , seminarId=1
+23:15:54.652 [http-nio-8080-exec-3] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 1
+23:15:54.652 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 1
+23:16:04.002 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+23:16:07.335 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting seminars by email: mishal@gmail.com
+23:16:07.336 [http-nio-8080-exec-7] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mishal@gmail.com
+23:16:11.644 [http-nio-8080-exec-9] INFO  com.mybackend.service.SeminarService - Getting seminar by ID: 11
+23:16:11.671 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Retrieved seminar details for ID: 11
+23:16:46.565 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting seminars by email: mishal@gmail.com
+23:16:46.566 [http-nio-8080-exec-10] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mishal@gmail.com
+23:16:53.451 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting all seminars
+23:16:57.354 [http-nio-8080-exec-1] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:16:57.354 [http-nio-8080-exec-1] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:17:10.822 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Getting all seminars
+23:17:22.438 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting all seminars
+23:17:29.458 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+23:17:38.570 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting all seminars
+23:17:52.199 [http-nio-8080-exec-10] INFO  c.m.controller.StudentController - Validating login for admin-email: sai@gmail.com
+23:17:56.947 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+23:18:36.503 [http-nio-8080-exec-2] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@5a289a69
+23:18:36.524 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@5a289a69
+23:18:38.189 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+23:19:23.476 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:19:23.476 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:20:19.791 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Removing project guide with ID: 7
+23:20:19.792 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Removing project guide with ID: 7
+23:20:25.609 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:20:25.610 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:22:34.501 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@1bedad5
+23:22:34.501 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@1bedad5
+23:22:43.611 [http-nio-8080-exec-8] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:22:43.611 [http-nio-8080-exec-8] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:24:59.947 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Registering a new student: chaithanya@gmail.com
+23:24:59.947 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@14ca5fc1
+23:25:00.033 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - User registration successful for email: chaithanya@gmail.com
+23:25:00.033 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Registration successful for email: chaithanya@gmail.com
+23:25:55.967 [http-nio-8080-exec-5] INFO  c.m.controller.StudentController - Registering a new student: chaitanya@gmail.com
+23:25:55.967 [http-nio-8080-exec-5] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@4cc4c57d
+23:25:55.981 [http-nio-8080-exec-5] INFO  com.mybackend.service.StudentService - User registration successful for email: chaitanya@gmail.com
+23:25:55.981 [http-nio-8080-exec-5] INFO  c.m.controller.StudentController - Registration successful for email: chaitanya@gmail.com
+23:26:57.695 [http-nio-8080-exec-7] INFO  c.m.controller.StudentController - Registering a new student: chaitanya@gmail.com
+23:26:57.695 [http-nio-8080-exec-7] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@4a09464a
+23:26:57.703 [http-nio-8080-exec-7] WARN  com.mybackend.service.StudentService - User registration failed. User with email 'chaitanya@gmail.com' already exists.
+23:26:57.704 [http-nio-8080-exec-7] WARN  c.m.controller.StudentController - User registration failed for email: chaitanya@gmail.com
+23:27:09.241 [http-nio-8080-exec-9] INFO  c.m.controller.StudentController - Registering a new student: chaitanya3@gmail.com
+23:27:09.241 [http-nio-8080-exec-9] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@673c9340
+23:27:09.282 [http-nio-8080-exec-9] INFO  com.mybackend.service.StudentService - User registration successful for email: chaitanya3@gmail.com
+23:27:09.282 [http-nio-8080-exec-9] INFO  c.m.controller.StudentController - Registration successful for email: chaitanya3@gmail.com
+23:28:40.693 [http-nio-8080-exec-10] INFO  c.m.controller.StudentController - Validating login for email: chaitanya3@gmail.com
+23:28:40.693 [http-nio-8080-exec-10] INFO  com.mybackend.service.StudentService - Login validation for email: chaitanya3@gmail.com
+23:28:40.696 [http-nio-8080-exec-10] INFO  com.mybackend.service.StudentService - Login successful for email: chaitanya3@gmail.com
+23:28:52.510 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting all seminars
+23:30:17.846 [http-nio-8080-exec-3] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=chaitanya3@gmail.com, date=2023-10-06, fee=1500, location=Banglore, mentorName=Umadevi, seminarId=3
+23:30:17.882 [http-nio-8080-exec-3] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 3
+23:30:17.883 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 3
+23:30:22.819 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting seminars by email: chaitanya3@gmail.com
+23:30:22.819 [http-nio-8080-exec-5] INFO  com.mybackend.service.SeminarService - Getting seminars by email: chaitanya3@gmail.com
+23:30:37.917 [http-nio-8080-exec-7] INFO  com.mybackend.service.SeminarService - Getting seminar by ID: 12
+23:30:37.932 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Retrieved seminar details for ID: 12
+23:30:52.424 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting seminars by email: chaitanya3@gmail.com
+23:30:52.424 [http-nio-8080-exec-9] INFO  com.mybackend.service.SeminarService - Getting seminars by email: chaitanya3@gmail.com
+23:31:18.621 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting seminars by email: chaitanya3@gmail.com
+23:31:18.621 [http-nio-8080-exec-10] INFO  com.mybackend.service.SeminarService - Getting seminars by email: chaitanya3@gmail.com
+23:31:22.915 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
+23:31:22.915 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:34:46.271 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Validating login for email: chaitanya3@gmail.com
+23:34:46.271 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login validation for email: chaitanya3@gmail.com
+23:34:46.275 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login successful for email: chaitanya3@gmail.com
+23:34:51.307 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+23:34:55.695 [http-nio-8080-exec-7] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=chaitanya3@gmail.com, date=2023-10-07, fee=2000, location=Banglore, mentorName=kiruba, seminarId=2
+23:34:55.707 [http-nio-8080-exec-7] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 2
+23:34:55.707 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 2
+09:35:18.013 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 7152 (C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\projectms\SpringBootProjectBackend-3\SpringBootProjectBackend)
+09:35:18.026 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+09:35:18.027 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+09:35:32.651 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 16.644 seconds (JVM running for 18.243)
+10:14:19.884 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Validating login for admin-email: sai@gmail.com
+10:14:21.469 [http-nio-8080-exec-8] INFO  c.m.controller.StudentController - Validating login for admin-email: sai@gmail.com
+10:14:39.352 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Getting all project guides
+10:14:39.353 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+10:14:51.841 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+10:14:51.842 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+10:15:00.542 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting all seminars
+10:15:52.891 [http-nio-8080-exec-3] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@2f9b5a66
+10:15:53.401 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@2f9b5a66
+10:15:55.791 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+10:16:03.300 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting all seminars
+10:16:11.475 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+10:16:11.475 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+10:16:11.505 [http-nio-8080-exec-4] INFO  c.m.controller.StudentController - Getting all emails
+10:16:11.505 [http-nio-8080-exec-4] INFO  com.mybackend.service.StudentService - Getting all emails
+10:16:11.555 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting all seminars
+10:16:32.640 [http-nio-8080-exec-7] INFO  c.m.controller.StudentController - Validating login for email: mishal@gmail.com
+10:16:32.641 [http-nio-8080-exec-7] INFO  com.mybackend.service.StudentService - Login validation for email: mishal@gmail.com
+10:16:32.651 [http-nio-8080-exec-7] INFO  com.mybackend.service.StudentService - Login successful for email: mishal@gmail.com
+10:16:40.082 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Getting all project guides
+10:16:40.082 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+10:16:46.790 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting all seminars
+10:16:50.508 [http-nio-8080-exec-9] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=mishal@gmail.com, date=2023-10-12, fee=1500, location=sikkim, mentorName=indra, seminarId=6
+10:16:50.571 [http-nio-8080-exec-9] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 6
+10:16:50.572 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 6
+10:16:56.483 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting seminars by email: mishal@gmail.com
+10:16:56.483 [http-nio-8080-exec-2] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mishal@gmail.com
+10:17:03.274 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting all seminars
+10:17:05.840 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting seminars by email: mishal@gmail.com
+10:17:05.840 [http-nio-8080-exec-7] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mishal@gmail.com
+10:17:09.098 [http-nio-8080-exec-3] INFO  com.mybackend.service.SeminarService - Getting seminar by ID: 11
+10:17:09.154 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Retrieved seminar details for ID: 11
+10:17:16.672 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting seminars by email: mishal@gmail.com
+10:17:16.673 [http-nio-8080-exec-5] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mishal@gmail.com
+10:17:20.742 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting all seminars
+10:17:31.335 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+22:15:34.034 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Starting SpringBootProjectBackendApplicationTests using Java 17.0.6 on PC with PID 5556 (started by USER in C:\Users\USER\Desktop\SpringBootProjectBackend (2)\SpringBootProjectBackend)
+22:15:34.036 [main] DEBUG c.m.SpringBootProjectBackendApplicationTests - Running with Spring Boot v2.7.9, Spring v5.3.25
+22:15:34.037 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - No active profile set, falling back to 1 default profile: "default"
+22:15:44.495 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Started SpringBootProjectBackendApplicationTests in 11.034 seconds (JVM running for 13.419)
+22:17:51.101 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Starting SpringBootProjectBackendApplicationTests using Java 17.0.6 on PC with PID 5300 (started by USER in C:\Users\USER\Desktop\SpringBootProjectBackend (2)\SpringBootProjectBackend)
+22:17:51.105 [main] DEBUG c.m.SpringBootProjectBackendApplicationTests - Running with Spring Boot v2.7.9, Spring v5.3.25
+22:17:51.106 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - No active profile set, falling back to 1 default profile: "default"
+22:18:05.829 [main] INFO  c.m.SpringBootProjectBackendApplicationTests - Started SpringBootProjectBackendApplicationTests in 15.453 seconds (JVM running for 17.8)
+22:18:33.129 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 8476 (C:\Users\USER\Desktop\SpringBootProjectBackend (2)\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\SpringBootProjectBackend (2)\SpringBootProjectBackend)
+22:18:33.165 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+22:18:33.166 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+22:18:55.283 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 24.332 seconds (JVM running for 27.337)
+22:19:26.001 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+22:19:26.001 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+22:19:26.180 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+22:19:37.752 [http-nio-8080-exec-5] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:19:37.753 [http-nio-8080-exec-5] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:19:45.888 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting all seminars
+22:19:52.134 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+22:19:52.134 [http-nio-8080-exec-3] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+22:19:57.001 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting all seminars
+22:20:02.927 [http-nio-8080-exec-1] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=sai@gmail.com, date=2023-10-07, fee=2000, location=Banglore, mentorName=kiruba, seminarId=2
+22:20:03.173 [http-nio-8080-exec-1] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 2
+22:20:03.173 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 2
+22:20:10.211 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+22:20:10.211 [http-nio-8080-exec-2] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+22:20:16.459 [http-nio-8080-exec-5] INFO  com.mybackend.service.SeminarService - Getting seminar by ID: 15
+22:20:16.504 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Retrieved seminar details for ID: 15
+22:20:19.549 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+22:20:19.549 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+22:20:22.309 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 15
+22:20:22.309 [http-nio-8080-exec-3] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 15
+22:22:28.664 [http-nio-8080-exec-10] INFO  c.m.controller.StudentController - Validating login for admin-email: sai@gmail.com
+22:22:43.576 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:22:43.577 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:22:49.374 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:22:49.374 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:22:49.385 [http-nio-8080-exec-5] INFO  c.m.controller.StudentController - Getting all emails
+22:22:49.385 [http-nio-8080-exec-5] INFO  com.mybackend.service.StudentService - Getting all emails
+22:22:49.419 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting all seminars
+22:22:56.136 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting all seminars
+22:23:56.819 [http-nio-8080-exec-10] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@6319ea66
+22:23:56.851 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@6319ea66
+22:23:59.370 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+22:30:11.468 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+22:30:42.641 [http-nio-8080-exec-6] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@50ab2bde
+22:30:42.727 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@50ab2bde
+22:30:45.795 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting all seminars
+22:33:48.499 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Getting all seminars
+22:34:11.379 [http-nio-8080-exec-10] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@ce99b13
+22:34:11.484 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@ce99b13
+22:34:13.288 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+22:37:08.495 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+22:37:37.470 [http-nio-8080-exec-6] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@5a1c9b87
+22:37:37.544 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@5a1c9b87
+22:37:40.578 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting all seminars
+22:38:02.231 [http-nio-8080-exec-3] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@26de682b
+22:38:02.261 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@26de682b
+22:38:03.967 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting all seminars
+22:38:16.981 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 15
+22:38:16.981 [http-nio-8080-exec-2] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 15
+22:38:20.651 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 16
+22:38:20.651 [http-nio-8080-exec-5] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 16
+22:38:38.428 [http-nio-8080-exec-7] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@135d20b4
+22:38:38.458 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@135d20b4
+22:38:40.143 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+22:39:04.456 [http-nio-8080-exec-9] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@1c94bac
+22:39:04.591 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@1c94bac
+22:39:05.846 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting all seminars
+22:40:07.401 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 13
+22:40:07.401 [http-nio-8080-exec-4] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 13
+22:40:10.265 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 14
+22:40:10.265 [http-nio-8080-exec-6] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 14
+22:40:13.723 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 17
+22:40:13.723 [http-nio-8080-exec-8] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 17
+22:40:17.533 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 18
+22:40:17.533 [http-nio-8080-exec-10] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 18
+22:40:31.394 [http-nio-8080-exec-2] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@181e4e53
+22:40:31.428 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@181e4e53
+22:40:33.161 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+22:41:54.266 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+22:41:54.266 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+22:41:59.750 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+22:42:18.821 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting all seminars
+22:42:29.149 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+22:42:42.858 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+22:42:42.858 [http-nio-8080-exec-4] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+22:43:03.036 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting all seminars
+22:43:22.200 [http-nio-8080-exec-8] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+22:43:22.200 [http-nio-8080-exec-8] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+22:43:22.245 [http-nio-8080-exec-8] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+22:43:27.384 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting all seminars
+22:43:52.679 [http-nio-8080-exec-1] INFO  c.m.controller.StudentController - Validating login for admin-email: sai@gmail.com
+22:43:57.796 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+22:44:38.524 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting all seminars
+22:44:57.339 [http-nio-8080-exec-8] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@33032c46
+22:44:57.360 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@33032c46
+22:44:59.821 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Getting all seminars
+22:45:16.533 [http-nio-8080-exec-10] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+22:45:16.533 [http-nio-8080-exec-10] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+22:45:16.575 [http-nio-8080-exec-10] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+22:45:26.263 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting all seminars
+22:47:57.732 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting all seminars
+22:49:08.192 [http-nio-8080-exec-7] INFO  c.m.controller.StudentController - Validating login for admin-email: sai@gmail.com
+22:49:08.530 [http-nio-8080-exec-8] INFO  c.m.controller.StudentController - Validating login for admin-email: sai@gmail.com
+22:49:16.542 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting all seminars
+22:49:52.691 [http-nio-8080-exec-1] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@b4bd614
+22:49:52.782 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@b4bd614
+22:49:55.400 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting all seminars
+22:50:20.023 [http-nio-8080-exec-5] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@16f4f184
+22:50:20.044 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@16f4f184
+22:50:22.184 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting all seminars
+22:50:25.098 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 21
+22:50:25.098 [http-nio-8080-exec-8] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 21
+22:50:28.512 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 20
+22:50:28.512 [http-nio-8080-exec-10] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 20
+22:50:56.808 [http-nio-8080-exec-2] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@260d64c0
+22:50:56.825 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@260d64c0
+22:50:58.297 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+22:51:41.004 [http-nio-8080-exec-6] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@3439f407
+22:51:41.022 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@3439f407
+22:51:43.153 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting all seminars
+22:51:48.092 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 8
+22:51:48.092 [http-nio-8080-exec-9] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 8
+22:51:50.735 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 9
+22:51:50.736 [http-nio-8080-exec-1] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 9
+22:51:53.469 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 10
+22:51:53.470 [http-nio-8080-exec-4] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 10
+22:51:55.758 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 11
+22:51:55.758 [http-nio-8080-exec-6] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 11
+22:51:58.651 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 12
+22:51:58.651 [http-nio-8080-exec-3] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 12
+22:52:02.386 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 19
+22:52:02.386 [http-nio-8080-exec-10] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 19
+22:52:37.728 [http-nio-8080-exec-4] INFO  c.m.controller.StudentController - Validating login for email: mishal@gmail.com
+22:52:37.728 [http-nio-8080-exec-4] INFO  com.mybackend.service.StudentService - Login validation for email: mishal@gmail.com
+22:52:37.737 [http-nio-8080-exec-4] INFO  com.mybackend.service.StudentService - Login successful for email: mishal@gmail.com
+22:52:42.162 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting all seminars
+22:52:53.049 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:52:53.049 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:53:11.946 [http-nio-8080-exec-9] INFO  c.m.controller.StudentController - Validating login for admin-email: sai@gmail.com
+22:53:18.334 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+22:53:40.347 [http-nio-8080-exec-4] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@4f73ea6d
+22:53:40.385 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@4f73ea6d
+22:53:42.827 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting all seminars
+22:55:21.497 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting all seminars
+22:55:43.114 [http-nio-8080-exec-3] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@3f6642cb
+22:55:43.134 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@3f6642cb
+22:55:45.904 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting all seminars
+22:56:01.482 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting all seminars
+22:56:04.763 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 26
+22:56:04.763 [http-nio-8080-exec-6] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 26
+22:56:08.987 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Admin deleting seminar with ID: 25
+22:56:08.987 [http-nio-8080-exec-8] INFO  c.m.service.SeminarListService - Deleting seminar with ID: 25
+22:56:30.057 [http-nio-8080-exec-3] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@5dfb73c6
+22:56:30.102 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@5dfb73c6
+22:56:31.786 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting all seminars
+22:56:43.267 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:56:43.268 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:58:21.154 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@4f45de07
+22:58:21.154 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@4f45de07
+22:58:37.308 [http-nio-8080-exec-8] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:58:37.309 [http-nio-8080-exec-8] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+22:58:57.256 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Validating login for email: sai@gmail.com
+22:58:57.264 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login validation for email: sai@gmail.com
+22:58:57.289 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login successful for email: sai@gmail.com
+22:59:01.434 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Getting all project guides
+22:59:01.434 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+23:06:39.426 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting all seminars
+23:06:48.360 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=sai@gmail.com, date=2023-06-06, fee=1200, location=Banglore, mentorName=Jaswanth, seminarId=6
+23:06:48.379 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 6
+23:06:48.379 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 6
+23:06:54.483 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+23:06:54.483 [http-nio-8080-exec-7] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+23:06:56.793 [http-nio-8080-exec-8] INFO  com.mybackend.service.SeminarService - Getting seminar by ID: 16
+23:06:56.817 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Retrieved seminar details for ID: 16
+23:07:02.525 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+23:07:02.525 [http-nio-8080-exec-3] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+23:07:05.831 [http-nio-8080-exec-10] INFO  com.mybackend.service.SeminarService - Getting seminar by ID: 16
+23:07:05.838 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Retrieved seminar details for ID: 16
+23:07:07.657 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+23:07:07.657 [http-nio-8080-exec-1] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+23:07:09.350 [http-nio-8080-exec-2] INFO  com.mybackend.service.SeminarService - Getting seminar by ID: 3
+23:07:09.359 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Retrieved seminar details for ID: 3
+23:07:34.538 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting seminars by email: sai@gmail.com
+23:07:34.542 [http-nio-8080-exec-4] INFO  com.mybackend.service.SeminarService - Getting seminars by email: sai@gmail.com
+23:07:36.630 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 3
+23:07:36.630 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 3
+23:07:43.561 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+23:08:11.411 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Validating login for email: mishal@gmail.com
+23:08:11.411 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login validation for email: mishal@gmail.com
+23:08:11.415 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Login successful for email: mishal@gmail.com
+23:08:39.282 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting seminars by email: mishal@gmail.com
+23:08:39.282 [http-nio-8080-exec-1] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mishal@gmail.com
+23:08:41.115 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 14
+23:08:41.115 [http-nio-8080-exec-4] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 14
+23:09:04.781 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting all seminars
+23:09:07.902 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=mishal@gmail.com, date=2023-10-12, fee=1500, location=Mumbai, mentorName=Gowtham Raju, seminarId=5
+23:09:07.950 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 5
+23:09:07.950 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 5
+23:09:31.489 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting all seminars
+13:40:05.986 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 1432 (C:\Users\USER\Desktop\SpringBootProjectBackend (2)\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\SpringBootProjectBackend (2)\SpringBootProjectBackend)
+13:40:05.997 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+13:40:05.998 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+13:40:48.396 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 43.755 seconds (JVM running for 46.049)
+13:41:14.940 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Validating login for admin-email: sai@gmail.com
+13:41:50.908 [http-nio-8080-exec-4] INFO  c.m.controller.StudentController - Validating login for admin-email: mishal@gmail.com
+13:41:56.707 [http-nio-8080-exec-5] INFO  c.m.controller.StudentController - Validating login for admin-email: mishal@gmail.com
+13:43:09.215 [http-nio-8080-exec-8] INFO  c.m.controller.StudentController - Registering a new student: mishal@gmail.com
+13:43:09.215 [http-nio-8080-exec-8] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@3d36b67a
+13:43:09.225 [http-nio-8080-exec-8] WARN  com.mybackend.service.StudentService - User registration failed. User with email 'mishal@gmail.com' already exists.
+13:43:09.225 [http-nio-8080-exec-8] WARN  c.m.controller.StudentController - User registration failed for email: mishal@gmail.com
+13:43:17.557 [http-nio-8080-exec-9] INFO  c.m.controller.StudentController - Registering a new student: mishal3@gmail.com
+13:43:17.557 [http-nio-8080-exec-9] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@4411b614
+13:43:17.839 [http-nio-8080-exec-9] INFO  com.mybackend.service.StudentService - User registration successful for email: mishal3@gmail.com
+13:43:17.839 [http-nio-8080-exec-9] INFO  c.m.controller.StudentController - Registration successful for email: mishal3@gmail.com
+13:43:35.860 [http-nio-8080-exec-1] INFO  c.m.controller.StudentController - Validating login for admin-email: mishal3@gmail.com
+13:43:54.927 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Validating login for admin-email: mishal3@gmail.com
+13:44:02.068 [http-nio-8080-exec-5] INFO  c.m.controller.StudentController - Validating login for admin-email: mishal3@gmail.com
+13:44:08.275 [http-nio-8080-exec-6] INFO  c.m.controller.StudentController - Validating login for admin-email: mishal3@gmail.com
+13:45:06.837 [http-nio-8080-exec-8] INFO  c.m.controller.StudentController - Validating login for admin-email: mishal@gmail.com
+13:47:24.995 [http-nio-8080-exec-10] INFO  c.m.controller.StudentController - Validating login for admin-email: mishal3@gmail.com
+13:55:56.889 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Registering a new student: mahesh@gmail.com
+13:55:56.917 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@13cabfbd
+13:55:57.467 [http-nio-8080-exec-2] INFO  com.mybackend.service.StudentService - User registration successful for email: mahesh@gmail.com
+13:55:57.467 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Registration successful for email: mahesh@gmail.com
+13:55:57.503 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Registering a new student: mahesh@gmail.com
+13:55:57.503 [http-nio-8080-exec-3] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@346b0478
+13:55:57.581 [http-nio-8080-exec-3] WARN  com.mybackend.service.StudentService - User registration failed. User with email 'mahesh@gmail.com' already exists.
+13:55:57.582 [http-nio-8080-exec-3] WARN  c.m.controller.StudentController - User registration failed for email: mahesh@gmail.com
+13:56:09.141 [http-nio-8080-exec-5] INFO  c.m.controller.StudentController - Registering a new student: mahesh3@gmail.com
+13:56:09.141 [http-nio-8080-exec-5] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@27581b8c
+13:56:09.172 [http-nio-8080-exec-5] INFO  com.mybackend.service.StudentService - User registration successful for email: mahesh3@gmail.com
+13:56:09.173 [http-nio-8080-exec-5] INFO  c.m.controller.StudentController - Registration successful for email: mahesh3@gmail.com
+13:56:35.797 [http-nio-8080-exec-7] INFO  c.m.controller.StudentController - Validating login for admin-email: mahesh3@gmail.com
+13:57:09.164 [http-nio-8080-exec-9] INFO  c.m.controller.StudentController - Validating login for admin-email: mahesh3@gmail.com
+13:57:46.507 [http-nio-8080-exec-1] INFO  c.m.controller.StudentController - Validating login for admin-email: mahesh3@gmail.com
+13:57:54.800 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Getting all seminars
+13:58:00.955 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+13:58:00.955 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+13:58:04.590 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting all seminars
+13:58:06.095 [http-nio-8080-exec-8] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=mahesh3@gmail.com, date=2023-06-06, fee=1000, location=sikkim, mentorName=Mishal , seminarId=1
+13:58:06.430 [http-nio-8080-exec-8] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 1
+13:58:06.431 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 1
+13:58:11.185 [http-nio-8080-exec-9] INFO  c.m.controller.SeminarController - Getting seminars by email: mahesh3@gmail.com
+13:58:11.185 [http-nio-8080-exec-9] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mahesh3@gmail.com
+13:58:12.795 [http-nio-8080-exec-1] INFO  com.mybackend.service.SeminarService - Getting seminar by ID: 18
+13:58:12.855 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Retrieved seminar details for ID: 18
+13:58:14.910 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting seminars by email: mahesh3@gmail.com
+13:58:14.910 [http-nio-8080-exec-2] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mahesh3@gmail.com
+13:58:18.814 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+14:01:14.939 [http-nio-8080-exec-6] INFO  c.m.controller.StudentController - Registering a new student: sai@gmail.com03
+14:01:14.941 [http-nio-8080-exec-6] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@595deaf9
+14:01:15.068 [http-nio-8080-exec-6] INFO  com.mybackend.service.StudentService - User registration successful for email: sai@gmail.com03
+14:01:15.068 [http-nio-8080-exec-6] INFO  c.m.controller.StudentController - Registration successful for email: sai@gmail.com03
+14:02:32.436 [http-nio-8080-exec-8] INFO  c.m.controller.StudentController - Registering a new student: sai03@gmail.com
+14:02:32.436 [http-nio-8080-exec-8] INFO  com.mybackend.service.StudentService - Adding a new student: com.mybackend.entity.Student@60467564
+14:02:32.484 [http-nio-8080-exec-8] INFO  com.mybackend.service.StudentService - User registration successful for email: sai03@gmail.com
+14:02:32.484 [http-nio-8080-exec-8] INFO  c.m.controller.StudentController - Registration successful for email: sai03@gmail.com
+14:02:43.325 [http-nio-8080-exec-10] INFO  c.m.controller.StudentController - Validating login for admin-email: sai03@gmail.com
+15:27:38.396 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 17.0.6 on PC with PID 1580 (C:\Users\USER\Desktop\SpringBootProjectBackend (2)\SpringBootProjectBackend\target\classes started by USER in C:\Users\USER\Desktop\SpringBootProjectBackend (2)\SpringBootProjectBackend)
+15:27:38.402 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+15:27:38.403 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+15:27:48.157 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 10.448 seconds (JVM running for 11.526)
+15:28:08.270 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Validating login for admin-email: sai@gmail.com
+15:28:22.545 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+15:28:28.468 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Getting all project guides
+15:28:28.469 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+15:28:28.471 [http-nio-8080-exec-6] INFO  c.m.controller.StudentController - Getting all emails
+15:28:28.471 [http-nio-8080-exec-6] INFO  com.mybackend.service.StudentService - Getting all emails
+15:28:28.528 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+15:28:42.939 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+15:28:48.120 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Getting all seminars
+15:28:51.585 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting all seminars
+15:28:58.453 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Getting all project guides
+15:28:58.454 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+15:29:14.544 [http-nio-8080-exec-8] INFO  c.m.controller.StudentController - Validating login for admin-email: mishal@gmail.com
+15:29:18.851 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting all seminars
+15:29:23.465 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting seminars by email: mishal@gmail.com
+15:29:23.465 [http-nio-8080-exec-1] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mishal@gmail.com
+15:29:28.713 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Getting all seminars
+15:29:37.782 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting all seminars
+15:29:45.888 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Getting all project guides
+15:29:45.888 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+15:29:50.061 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+15:30:34.933 [http-nio-8080-exec-8] INFO  c.m.c.ProjectGuideController - Getting all project guides
+15:30:34.933 [http-nio-8080-exec-8] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+15:31:02.815 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Getting seminars by email: mishal@gmail.com
+15:31:02.815 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mishal@gmail.com
+15:31:14.345 [http-nio-8080-exec-1] INFO  c.m.controller.StudentController - Getting all emails
+15:31:14.345 [http-nio-8080-exec-1] INFO  com.mybackend.service.StudentService - Getting all emails
+16:31:20.429 [http-nio-8080-exec-6] INFO  c.m.controller.StudentController - Validating login for admin-email: sai@gmail.com
+16:31:32.323 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+16:31:54.600 [http-nio-8080-exec-2] INFO  c.m.service.SeminarListService - Adding a new seminar: com.mybackend.entity.SeminarList@c3673bf
+16:31:54.894 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Added a new seminar: com.mybackend.entity.SeminarList@c3673bf
+16:31:56.631 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Getting all seminars
+16:33:00.311 [http-nio-8080-exec-10] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@104e2f94
+16:33:00.315 [http-nio-8080-exec-10] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@104e2f94
+16:33:07.964 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+16:33:07.966 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+16:33:28.727 [http-nio-8080-exec-7] INFO  c.m.c.ProjectGuideController - Getting all project guides
+16:33:28.729 [http-nio-8080-exec-7] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+16:33:28.743 [http-nio-8080-exec-5] INFO  c.m.controller.StudentController - Getting all emails
+16:33:28.743 [http-nio-8080-exec-5] INFO  com.mybackend.service.StudentService - Getting all emails
+16:33:28.771 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting all seminars
+16:33:46.688 [http-nio-8080-exec-8] INFO  c.m.controller.SeminarController - Getting all seminars
+16:34:18.360 [http-nio-8080-exec-6] INFO  c.m.controller.StudentController - Validating login for admin-email: mishal@gmail.com
+16:34:22.660 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+16:34:28.179 [http-nio-8080-exec-5] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=mishal@gmail.com, date=2023-10-06, fee=1000, location=Banglore, mentorName=Dinesh, seminarId=7
+16:34:28.383 [http-nio-8080-exec-5] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 7
+16:34:28.383 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 7
+16:34:34.464 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Getting seminars by email: mishal@gmail.com
+16:34:34.464 [http-nio-8080-exec-4] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mishal@gmail.com
+16:34:38.722 [http-nio-8080-exec-3] INFO  com.mybackend.service.SeminarService - Getting seminar by ID: 19
+16:34:38.941 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Retrieved seminar details for ID: 19
+16:34:48.724 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting all seminars
+16:34:54.058 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+16:34:54.058 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+16:35:04.310 [http-nio-8080-exec-7] INFO  c.m.controller.SeminarController - Getting seminars by email: mishal@gmail.com
+16:35:04.311 [http-nio-8080-exec-7] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mishal@gmail.com
+16:35:29.361 [http-nio-8080-exec-2] INFO  c.m.controller.SeminarController - Getting seminars by email: mishal@gmail.com
+16:35:29.361 [http-nio-8080-exec-2] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mishal@gmail.com
+16:35:31.342 [http-nio-8080-exec-3] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 19
+16:35:31.342 [http-nio-8080-exec-3] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 19
+16:35:48.274 [http-nio-8080-exec-10] INFO  c.m.controller.SeminarController - Getting all seminars
+16:35:53.212 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Enrolling in a seminar: email=mishal@gmail.com, date=2023-06-06, fee=1000, location=sikkim, mentorName=Mishal , seminarId=1
+16:35:53.229 [http-nio-8080-exec-6] INFO  com.mybackend.service.SeminarService - Enrollment completed for seminar with ID: 1
+16:35:53.229 [http-nio-8080-exec-6] INFO  c.m.controller.SeminarController - Enrolled student for seminar with ID: 1
+16:36:00.470 [http-nio-8080-exec-1] INFO  c.m.controller.SeminarController - Getting all seminars
+16:36:10.303 [http-nio-8080-exec-5] INFO  c.m.controller.SeminarController - Getting seminars by email: mishal@gmail.com
+16:36:10.303 [http-nio-8080-exec-5] INFO  com.mybackend.service.SeminarService - Getting seminars by email: mishal@gmail.com
+16:36:12.081 [http-nio-8080-exec-4] INFO  c.m.controller.SeminarController - Deleting seminar with ID: 11
+16:36:12.081 [http-nio-8080-exec-4] INFO  com.mybackend.service.SeminarService - Deleting seminar with ID: 11
+16:36:29.829 [http-nio-8080-exec-8] INFO  c.m.controller.StudentController - Validating login for admin-email: sai@gmail.com
+16:36:37.861 [http-nio-8080-exec-6] INFO  c.m.c.ProjectGuideController - Getting all project guides
+16:36:37.861 [http-nio-8080-exec-6] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+16:36:41.889 [http-nio-8080-exec-1] INFO  c.m.c.ProjectGuideController - Removing project guide with ID: 12
+16:36:41.890 [http-nio-8080-exec-1] INFO  c.m.service.ProjectGuideServiceImpl - Removing project guide with ID: 12
+16:37:02.126 [http-nio-8080-exec-5] INFO  c.m.controller.StudentController - Validating login for admin-email: mishal@gmail.com
+16:37:05.817 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
+16:37:05.817 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
