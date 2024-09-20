@@ -1500,3 +1500,24 @@
 16:37:02.126 [http-nio-8080-exec-5] INFO  c.m.controller.StudentController - Validating login for admin-email: mishal@gmail.com
 16:37:05.817 [http-nio-8080-exec-2] INFO  c.m.c.ProjectGuideController - Getting all project guides
 16:37:05.817 [http-nio-8080-exec-2] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+16:10:30.682 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 1.8.0_422 on DESKTOP-LQQMCAC with PID 27608 (C:\Users\prakash\SpringbootProjectsFromOld\workspace-spring-tool-suite-4-4.18.1.RELEASE\Seminar-Backend\target\classes started by prakash in C:\Users\prakash\SpringbootProjectsFromOld\workspace-spring-tool-suite-4-4.18.1.RELEASE\Seminar-Backend)
+16:10:30.687 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+16:10:30.688 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+16:15:40.757 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 1.8.0_422 on DESKTOP-LQQMCAC with PID 21852 (C:\Users\prakash\SpringbootProjectsFromOld\workspace-spring-tool-suite-4-4.18.1.RELEASE\Seminar-Backend\target\classes started by prakash in C:\Users\prakash\SpringbootProjectsFromOld\workspace-spring-tool-suite-4-4.18.1.RELEASE\Seminar-Backend)
+16:15:40.760 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+16:15:40.761 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+16:17:26.245 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 1.8.0_422 on DESKTOP-LQQMCAC with PID 18256 (C:\Users\prakash\SpringbootProjectsFromOld\workspace-spring-tool-suite-4-4.18.1.RELEASE\Seminar-Backend\target\classes started by prakash in C:\Users\prakash\SpringbootProjectsFromOld\workspace-spring-tool-suite-4-4.18.1.RELEASE\Seminar-Backend)
+16:17:26.248 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+16:17:26.249 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+16:20:30.783 [main] INFO  c.m.SpringBootProjectBackendApplication - Starting SpringBootProjectBackendApplication using Java 1.8.0_422 on DESKTOP-LQQMCAC with PID 7472 (C:\Users\prakash\SpringbootProjectsFromOld\workspace-spring-tool-suite-4-4.18.1.RELEASE\Seminar-Backend\target\classes started by prakash in C:\Users\prakash\SpringbootProjectsFromOld\workspace-spring-tool-suite-4-4.18.1.RELEASE\Seminar-Backend)
+16:20:30.788 [main] DEBUG c.m.SpringBootProjectBackendApplication - Running with Spring Boot v2.7.9, Spring v5.3.25
+16:20:30.789 [main] INFO  c.m.SpringBootProjectBackendApplication - No active profile set, falling back to 1 default profile: "default"
+16:20:36.941 [main] INFO  c.m.SpringBootProjectBackendApplication - Started SpringBootProjectBackendApplication in 6.676 seconds (JVM running for 7.322)
+16:21:52.575 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Getting all project guides
+16:21:52.575 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+16:24:47.720 [http-nio-8080-exec-9] INFO  c.m.c.ProjectGuideController - Getting all project guides
+16:24:47.720 [http-nio-8080-exec-9] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
+16:26:54.808 [http-nio-8080-exec-3] INFO  c.m.c.ProjectGuideController - Adding a new project guide: com.mybackend.entity.ProjectGuide@7bea03c3
+16:26:54.808 [http-nio-8080-exec-3] INFO  c.m.service.ProjectGuideServiceImpl - Adding a new project guide: com.mybackend.entity.ProjectGuide@7bea03c3
+16:27:02.948 [http-nio-8080-exec-4] INFO  c.m.c.ProjectGuideController - Getting all project guides
+16:27:02.948 [http-nio-8080-exec-4] INFO  c.m.service.ProjectGuideServiceImpl - Getting all project guides
